@@ -1,6 +1,0 @@
-#!/bin/sh
-
-. /Applications/mampstack-5.5.30-1-deskka/scripts/setenv.sh
-SASL_PATH="/Applications/mampstack-5.5.30-1-deskka/common/lib/sasl2"
-                export SASL_PATH
-exec /Applications/mampstack-5.5.30-1-deskka/common/sbin/.sasldblistusers2.bin -f "/Applications/mampstack-5.5.30-1-deskka/common/etc/sasldb2" "$@"

@@ -1,5 +1,0 @@
-#!/bin/sh
-
-. /Applications/mampstack-5.5.30-1-deskka/scripts/setenv.sh
-
-exec /Applications/mampstack-5.5.30-1-deskka/php/sbin/.php-fpm.bin -y /Applications/mampstack-5.5.30-1-deskka/php/etc/php-fpm.conf -p /Applications/mampstack-5.5.30-1-deskka/php/var/ -c /Applications/mampstack-5.5.30-1-deskka/php/etc/php.ini "$@"
