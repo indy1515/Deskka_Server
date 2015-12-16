@@ -1,0 +1,73 @@
+[Thu Dec 10 22:21:10.657151 2015] [ssl:warn] [pid 11565] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 22:21:10.731372 2015] [ssl:warn] [pid 11566] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 22:21:10.733781 2015] [mpm_prefork:notice] [pid 11566] AH00163: Apache/2.4.17 (Unix) PHP/5.5.30 OpenSSL/1.0.1p configured -- resuming normal operations
+[Thu Dec 10 22:21:10.733842 2015] [core:notice] [pid 11566] AH00094: Command line: '/Applications/mampstack-5.5.30-1-deskka/apache2/bin/httpd.bin -f /Applications/mampstack-5.5.30-1-deskka/apache2/conf/httpd.conf'
+[Thu Dec 10 22:21:13.637688 2015] [mpm_prefork:notice] [pid 11566] AH00169: caught SIGTERM, shutting down
+[Thu Dec 10 22:21:16.131910 2015] [ssl:warn] [pid 11594] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 22:21:16.175133 2015] [ssl:warn] [pid 11595] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 22:21:16.177034 2015] [mpm_prefork:notice] [pid 11595] AH00163: Apache/2.4.17 (Unix) PHP/5.5.30 OpenSSL/1.0.1p configured -- resuming normal operations
+[Thu Dec 10 22:21:16.177095 2015] [core:notice] [pid 11595] AH00094: Command line: '/Applications/mampstack-5.5.30-1-deskka/apache2/bin/httpd.bin -f /Applications/mampstack-5.5.30-1-deskka/apache2/conf/httpd.conf'
+[Thu Dec 10 22:27:17.059781 2015] [mpm_prefork:notice] [pid 11595] AH00169: caught SIGTERM, shutting down
+[Thu Dec 10 22:28:02.707067 2015] [ssl:warn] [pid 12302] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 22:28:02.803430 2015] [ssl:warn] [pid 12303] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 22:28:02.812698 2015] [mpm_prefork:notice] [pid 12303] AH00163: Apache/2.4.17 (Unix) PHP/5.5.30 OpenSSL/1.0.1p configured -- resuming normal operations
+[Thu Dec 10 22:28:02.812765 2015] [core:notice] [pid 12303] AH00094: Command line: '/Applications/mampstack-5.5.30-1-deskka/apache2/bin/httpd.bin -f /Applications/mampstack-5.5.30-1-deskka/apache2/conf/httpd.conf'
+[Thu Dec 10 22:37:22.885444 2015] [mpm_prefork:notice] [pid 12303] AH00169: caught SIGTERM, shutting down
+[Tue Dec 15 12:18:31.756982 2015] [ssl:warn] [pid 29978] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 12:18:31.907684 2015] [ssl:warn] [pid 29979] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 12:18:31.917373 2015] [mpm_prefork:notice] [pid 29979] AH00163: Apache/2.4.17 (Unix) PHP/5.5.30 OpenSSL/1.0.1p configured -- resuming normal operations
+[Tue Dec 15 12:18:31.917479 2015] [core:notice] [pid 29979] AH00094: Command line: '/Applications/mampstack-5.5.30-1-deskka/apache2/bin/httpd.bin -f /Applications/mampstack-5.5.30-1-deskka/apache2/conf/httpd.conf'
+[Tue Dec 15 12:43:05.977523 2015] [:error] [pid 29980] [client 127.0.0.1:51708] script '/Applications/mampstack-5.5.30-1-deskka/apache2/htdocs/index.php' not found or unable to stat
+[Tue Dec 15 12:44:33.408397 2015] [:error] [pid 29981] [client 127.0.0.1:51731] script '/Applications/mampstack-5.5.30-1-deskka/apache2/htdocs/index.php' not found or unable to stat
+[Tue Dec 15 12:44:48.573386 2015] [:error] [pid 29982] [client 127.0.0.1:51738] script '/Applications/mampstack-5.5.30-1-deskka/apache2/htdocs/index.php' not found or unable to stat
+[Tue Dec 15 12:44:49.702792 2015] [:error] [pid 29982] [client 127.0.0.1:51738] script '/Applications/mampstack-5.5.30-1-deskka/apache2/htdocs/index.php' not found or unable to stat
+[Tue Dec 15 12:44:50.465944 2015] [:error] [pid 29982] [client 127.0.0.1:51738] script '/Applications/mampstack-5.5.30-1-deskka/apache2/htdocs/index.php' not found or unable to stat
+[Tue Dec 15 12:44:54.203410 2015] [mpm_prefork:notice] [pid 29979] AH00169: caught SIGTERM, shutting down
+[Tue Dec 15 12:44:58.307547 2015] [ssl:warn] [pid 32609] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 12:44:58.372975 2015] [ssl:warn] [pid 32610] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 12:44:58.380065 2015] [mpm_prefork:notice] [pid 32610] AH00163: Apache/2.4.17 (Unix) PHP/5.5.30 OpenSSL/1.0.1p configured -- resuming normal operations
+[Tue Dec 15 12:44:58.380186 2015] [core:notice] [pid 32610] AH00094: Command line: '/Applications/mampstack-5.5.30-1-deskka/apache2/bin/httpd.bin -f /Applications/mampstack-5.5.30-1-deskka/apache2/conf/httpd.conf'
+[Tue Dec 15 12:45:05.351898 2015] [:error] [pid 32611] [client 127.0.0.1:51768] script '/Applications/mampstack-5.5.30-1-deskka/apache2/htdocs/index.php' not found or unable to stat
+[Tue Dec 15 12:45:06.223108 2015] [:error] [pid 32611] [client 127.0.0.1:51768] script '/Applications/mampstack-5.5.30-1-deskka/apache2/htdocs/index.php' not found or unable to stat
+[Tue Dec 15 12:45:09.077636 2015] [:error] [pid 32611] [client 127.0.0.1:51768] script '/Applications/mampstack-5.5.30-1-deskka/apache2/htdocs/index.php' not found or unable to stat
+[Tue Dec 15 12:48:55.445460 2015] [:error] [pid 32613] [client 127.0.0.1:51825] script '/Applications/mampstack-5.5.30-1-deskka/apache2/htdocs/index.php' not found or unable to stat
+[Tue Dec 15 12:51:36.275409 2015] [:error] [pid 32641] [client 127.0.0.1:51888] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /Applications/mampstack-5.5.30-1-deskka/frameworks/laravel/app/Http/Controllers/DeskController.php on line 36
+[Tue Dec 15 13:02:34.967176 2015] [:error] [pid 33054] [client 127.0.0.1:52020] PHP Fatal error:  Class 'App\\Http\\Middleware\\BaseVerifier' not found in /Applications/mampstack-5.5.30-1-deskka/frameworks/laravel/app/Http/Middleware/VerifyCsrfToken.php on line 6
+[Tue Dec 15 13:03:29.605984 2015] [:error] [pid 32615] [client 127.0.0.1:52021] PHP Fatal error:  Class 'App\\Http\\Middleware\\BaseVerifier' not found in /Applications/mampstack-5.5.30-1-deskka/frameworks/laravel/app/Http/Middleware/VerifyCsrfToken.php on line 6
+[Tue Dec 15 13:03:40.713990 2015] [mpm_prefork:notice] [pid 32610] AH00169: caught SIGTERM, shutting down
+[Tue Dec 15 13:03:44.799142 2015] [ssl:warn] [pid 34438] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 13:03:44.851684 2015] [ssl:warn] [pid 34439] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 13:03:44.854713 2015] [mpm_prefork:notice] [pid 34439] AH00163: Apache/2.4.17 (Unix) PHP/5.5.30 OpenSSL/1.0.1p configured -- resuming normal operations
+[Tue Dec 15 13:03:44.854781 2015] [core:notice] [pid 34439] AH00094: Command line: '/Applications/mampstack-5.5.30-1-deskka/apache2/bin/httpd.bin -f /Applications/mampstack-5.5.30-1-deskka/apache2/conf/httpd.conf'
+[Tue Dec 15 13:28:00.967244 2015] [mpm_prefork:notice] [pid 34439] AH00169: caught SIGTERM, shutting down
+[Tue Dec 15 13:28:05.055257 2015] [ssl:warn] [pid 36790] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 13:28:05.109713 2015] [ssl:warn] [pid 36791] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 13:28:05.112656 2015] [mpm_prefork:notice] [pid 36791] AH00163: Apache/2.4.17 (Unix) PHP/5.5.30 OpenSSL/1.0.1p configured -- resuming normal operations
+[Tue Dec 15 13:28:05.112719 2015] [core:notice] [pid 36791] AH00094: Command line: '/Applications/mampstack-5.5.30-1-deskka/apache2/bin/httpd.bin -f /Applications/mampstack-5.5.30-1-deskka/apache2/conf/httpd.conf'
+[Tue Dec 15 13:32:50.863905 2015] [mpm_prefork:notice] [pid 36791] AH00169: caught SIGTERM, shutting down
+[Tue Dec 15 13:32:54.964994 2015] [ssl:warn] [pid 37260] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 13:32:55.016413 2015] [ssl:warn] [pid 37261] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 13:32:55.018381 2015] [mpm_prefork:notice] [pid 37261] AH00163: Apache/2.4.17 (Unix) PHP/5.5.30 OpenSSL/1.0.1p configured -- resuming normal operations
+[Tue Dec 15 13:32:55.018447 2015] [core:notice] [pid 37261] AH00094: Command line: '/Applications/mampstack-5.5.30-1-deskka/apache2/bin/httpd.bin -f /Applications/mampstack-5.5.30-1-deskka/apache2/conf/httpd.conf'
+[Tue Dec 15 13:33:22.712270 2015] [mpm_prefork:notice] [pid 37261] AH00169: caught SIGTERM, shutting down
+[Tue Dec 15 13:33:26.809919 2015] [ssl:warn] [pid 37333] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 13:33:26.860565 2015] [ssl:warn] [pid 37334] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 13:33:26.862734 2015] [mpm_prefork:notice] [pid 37334] AH00163: Apache/2.4.17 (Unix) PHP/5.5.30 OpenSSL/1.0.1p configured -- resuming normal operations
+[Tue Dec 15 13:33:26.862799 2015] [core:notice] [pid 37334] AH00094: Command line: '/Applications/mampstack-5.5.30-1-deskka/apache2/bin/httpd.bin -f /Applications/mampstack-5.5.30-1-deskka/apache2/conf/httpd.conf'
+[Tue Dec 15 13:34:48.327809 2015] [mpm_prefork:notice] [pid 37334] AH00169: caught SIGTERM, shutting down
+[Tue Dec 15 13:34:52.441781 2015] [ssl:warn] [pid 37492] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 13:34:52.493082 2015] [ssl:warn] [pid 37493] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 13:34:52.496160 2015] [mpm_prefork:notice] [pid 37493] AH00163: Apache/2.4.17 (Unix) PHP/5.5.30 OpenSSL/1.0.1p configured -- resuming normal operations
+[Tue Dec 15 13:34:52.496223 2015] [core:notice] [pid 37493] AH00094: Command line: '/Applications/mampstack-5.5.30-1-deskka/apache2/bin/httpd.bin -f /Applications/mampstack-5.5.30-1-deskka/apache2/conf/httpd.conf'
+[Tue Dec 15 16:35:28.223279 2015] [:error] [pid 43501] [client 127.0.0.1:55423] PHP Parse error:  syntax error, unexpected 'DB' (T_STRING) in /Applications/mampstack-5.5.30-1-deskka/frameworks/laravel/app/Http/Controllers/FloorController.php on line 43
+[Tue Dec 15 16:39:35.872926 2015] [mpm_prefork:notice] [pid 37493] AH00169: caught SIGTERM, shutting down
+[Tue Dec 15 16:39:39.986681 2015] [ssl:warn] [pid 51992] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 16:39:40.058595 2015] [ssl:warn] [pid 51993] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 16:39:40.062216 2015] [mpm_prefork:notice] [pid 51993] AH00163: Apache/2.4.17 (Unix) PHP/5.5.30 OpenSSL/1.0.1p configured -- resuming normal operations
+[Tue Dec 15 16:39:40.062364 2015] [core:notice] [pid 51993] AH00094: Command line: '/Applications/mampstack-5.5.30-1-deskka/apache2/bin/httpd.bin -f /Applications/mampstack-5.5.30-1-deskka/apache2/conf/httpd.conf'
+[Tue Dec 15 16:42:08.366987 2015] [mpm_prefork:notice] [pid 51993] AH00169: caught SIGTERM, shutting down
+[Tue Dec 15 16:42:12.455580 2015] [ssl:warn] [pid 52256] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 16:42:12.540015 2015] [ssl:warn] [pid 52257] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 16:42:12.551290 2015] [mpm_prefork:notice] [pid 52257] AH00163: Apache/2.4.17 (Unix) PHP/5.5.30 OpenSSL/1.0.1p configured -- resuming normal operations
+[Tue Dec 15 16:42:12.551353 2015] [core:notice] [pid 52257] AH00094: Command line: '/Applications/mampstack-5.5.30-1-deskka/apache2/bin/httpd.bin -f /Applications/mampstack-5.5.30-1-deskka/apache2/conf/httpd.conf'
+[Wed Dec 16 01:17:12.106426 2015] [mpm_prefork:notice] [pid 52257] AH00169: caught SIGTERM, shutting down

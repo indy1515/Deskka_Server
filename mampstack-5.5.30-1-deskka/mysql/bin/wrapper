@@ -1,0 +1,12 @@
+#!/bin/sh
+DYLD_FALLBACK_LIBRARY_PATH=/Applications/mampstack-5.5.30-1-deskka/mysql/lib:$DYLD_FALLBACK_LIBRARY_PATH
+export DYLD_FALLBACK_LIBRARY_PATH
+case "$@" in
+  *--no-defaults*)
+    exec $0.bin "$@"
+    ;;
+  *--defaults-extra-file*)
+    exec $0.bin "$@"
+    ;;
+esac
+exec $0.bin --defaults-file=/Applications/mampstack-5.5.30-1-deskka/mysql/my.cnf "$@"
